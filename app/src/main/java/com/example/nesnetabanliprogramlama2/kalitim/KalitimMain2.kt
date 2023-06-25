@@ -1,4 +1,4 @@
-package com.example.nesnetabanliprogramlama2
+package com.example.nesnetabanliprogramlama2.kalitim
 
 fun main() {
     val topkapiSarayi = Saray(20,5)

@@ -1,4 +1,7 @@
-package com.example.nesnetabanliprogramlama2
+package com.example.nesnetabanliprogramlama2.kalitim
+
+import com.example.nesnetabanliprogramlama2.kalitim.Araba
+import com.example.nesnetabanliprogramlama2.kalitim.Nissan
 
 fun main() {
     val araba = Araba("Kirmizi","otomatik","sedan")
